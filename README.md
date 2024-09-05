@@ -11,7 +11,7 @@ b. Write SQL statements for the following scenarios:
 ## Solution
 ### Schema Diagram
 ![Schema Diagram](
-    http://
+    https://github.com/morrisonmburu/abcq1/blob/master/abcq1%20-db-table-structure.png
 )
 
 ### SQL Statements
