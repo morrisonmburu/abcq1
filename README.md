@@ -19,3 +19,6 @@ The SQL statements for the scenarios are as follows:
 1. query1.sql
 2. query2.sql
 3. query3.sql
+
+### To setup the database run the following sql script
+1. vehicle_maintenance.sql
